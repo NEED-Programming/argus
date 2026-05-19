@@ -47,7 +47,7 @@ source ~/.bashrc
 ## Installation
 
 ```bash
-git clone https://github.com/youruser/argus
+git clone https://github.com/NEED-Programming/argus.git
 cd argus
 chmod +x argus.py
 ```
